@@ -4,7 +4,7 @@ Neste diretório você vai encontrar as apresentações ministradas na comunidad
 
 ## Kunumi
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Edição especial realizada em parceria com a Kunumi. Teremos um conteúdo muito especial organizado para aprofundar os seus conhecimento sobre Machine Learning
 
 #### Apresentações:
 
@@ -22,11 +22,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 #### Apresentações:
 
+* [Parte 1 - Infraestrutura de Machine Learning com Kubeflow](https://github.com/MarcusWiilo/Machine-Learning-Experience/blob/master/Presentations/DTI%20Digital/Marcelo%20Pio%20Infraestrutura%20de%20ML%20com%20Kubeflow_.pdf) - Marcelo Pio
+* [Parte 2 - Construindo soluções de ML em cloud com Terraform](https://github.com/MarcusWiilo/Machine-Learning-Experience/blob/master/Presentations/DTI%20Digital/Daniel%20Machado%20Terraform%20as%20ML%20IaC.pdf) - Daniel Machado
 
 #### Link da transmissão do YouTube:
 
-* [Parte 1](https://www.youtube.com/watch?v=uA0ykZLvRFY) - Infraestrutura de Machine Learning com Kubeflow.
-* [Parte 2](https://www.youtube.com/watch?v=QThSorW2pyQ&t=1s) - Construindo soluções de ML em cloud com Terraform.
+* [Parte 1 - Infraestrutura de Machine Learning com Kubeflow](https://www.youtube.com/watch?v=uA0ykZLvRFY) - Marcelo Pio
+* [Parte 2 - Construindo soluções de ML em cloud com Terraform](https://www.youtube.com/watch?v=QThSorW2pyQ&t=1s)
 
 
 ## Woman´s Edition
