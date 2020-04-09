@@ -9,8 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 #### Apresentações:
 
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
+* [Parte 1](https://github.com/MarcusWiilo/Machine-Learning-Experience/blob/master/Presentations/Kunumi/1%20-%20Projeto%20e%20validac%CC%A7a%CC%83o.pdf) - Projeto e validação
+* [Parte 2](https://github.com/MarcusWiilo/Machine-Learning-Experience/blob/master/Presentations/Kunumi/2%20-%20Implantac%CC%A7a%CC%83o%20e%20Monitoramento.pdf) - Implantação e monitoramento
 
 #### Link da transmissão no YouTube:
 
@@ -19,6 +19,15 @@ These instructions will get you a copy of the project up and running on your loc
 ## DTI Digital
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+#### Apresentações:
+
+
+#### Link da transmissão do YouTube:
+
+* [Parte 1](https://www.youtube.com/watch?v=uA0ykZLvRFY) - Infraestrutura de Machine Learning com Kubeflow.
+* [Parte 2](https://www.youtube.com/watch?v=QThSorW2pyQ&t=1s) - Construindo soluções de ML em cloud com Terraform.
+
 
 ## Woman´s Edition
 
