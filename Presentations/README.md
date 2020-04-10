@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Woman´s Edition
 
-![Machine Learning Experience | Woman´s Edition](woman_edition.png)
+![Machine Learning Experience | Woman´s Edition](woman_edition.png){width=50%}
 
 #### Apresentações:
 
@@ -59,6 +59,7 @@ These instructions will get you a copy of the project up and running on your loc
 * [Parte 1 - IA Estratégica - trazendo competitividade para sua empresa](https://github.com/MarcusWiilo/Machine-Learning-Experience/blob/master/Presentations/AI-Strategy_ML-Ops/Estrate%CC%81gia-IA-Kunumi-Gibram-Raul.pdf) - Gibram Raum - Cientista de dados na Kunumi
 * [Parte 2 - O papel de dados não rotulados em aprendizado de máquina](https://github.com/MarcusWiilo/Machine-Learning-Experience/blob/master/Presentations/AI-Strategy_ML-Ops/O-papel-de-dados-sem-rotulos-Fernanda-Guimaraes_Thays-Silva.pdf) - Feranda Guimarães + Thays Silva - Engenheiras de Machine Learning na Kunumi
 * [Parte 3 - ML Ops na Cloud](https://github.com/MarcusWiilo/Machine-Learning-Experience/blob/master/Presentations/AI-Strategy_ML-Ops/MLOps-on-the-cloud-neylson-crepalde.pdf) - Neylson Crepalde - Cientista de dados na A3 Data
+
 #### Link da transmissão do YouTube:
 
 * [Machine Learning Experience | Edição Ai Strategy + ML Ops](https://www.youtube.com/watch?v=yIrOLHjHXrw) - Evento online
@@ -66,9 +67,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Organizadores da comunidade
 
-* **Marcus Oliveira** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Túlio Vieira Souza** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Marcus Oliveira** - [LinkedIn](https://www.linkedin.com/in/marcuswiilo/)
+* **Túlio Vieira Souza** - [LinkedIn](https://www.linkedin.com/in/tuliovieira/)
 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Faça parte da nossa comunidade [Machine Learning Experience](https://www.meetup.com/meetup-machine-Learning-experience/)
 
