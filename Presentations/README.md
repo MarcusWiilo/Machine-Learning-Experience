@@ -2,6 +2,11 @@
 
 Neste diretório você vai encontrar as apresentações ministradas na comunidade do Machine Learning Experience. As apresentações de cada evento estarão em sua pasta especifica com a descrição relacionada ao nome do evento.
 
+* **Kunumi** 
+* **DTI Digital** 
+* **Woman´s Edition** 
+* **AI Strategy + ML Ops** 
+
 ## Kunumi
 
 Edição especial realizada em parceria com a Kunumi. Teremos um conteúdo muito especial organizado para aprofundar os seus conhecimento sobre Machine Learning
@@ -33,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Woman´s Edition
 
-Machine Learning Experience - ONLINE - Homenagem ao dia da mulher
+![Machine Learning Experience Woman Edition](woman_edition.png)
 
 #### Apresentações:
 
