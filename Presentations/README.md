@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Woman´s Edition
 
-![Machine Learning Experience Woman Edition](woman_edition.png)
+![Machine Learning Experience | Woman´s Edition](woman_edition.png)
 
 #### Apresentações:
 
@@ -52,7 +52,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## AI Strategy + ML Ops 
 
-Machine Learning Experience - ONLINE - Homenagem ao dia da mulher
+![Machine Learning Experience | AI Strategy + ML Ops](ai_strategy.png)
 
 #### Apresentações:
 
